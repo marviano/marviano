@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marviano
-- 👀 I’m interested in ReactJS, R
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Flutter, and Firebase
+- 🌱 I’m currently learning Flutter, and Firebase
 - 💞️ I’m looking to collaborate on R
 - 📫 How to reach me : Axonide#2603 or directly let me know on Github 
 
