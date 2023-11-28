@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @marviano
 - 👀 I’m interested in Flutter, and Firebase
-- 🌱 I’m currently learning Flutter, and Firebase
-- 💞️ I’m looking to collaborate on R
-- 📫 How to reach me : Axonide#2603 or directly let me know on Github 
+- 📫 How to reach me, Discord: axonide or marviano.austin@gmail.com 
 
 <!---
 marviano/marviano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
