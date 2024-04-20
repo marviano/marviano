@@ -1,4 +1,4 @@
-👋 Hi, I'm @marviano, an AI enthusiast with a passion for coding and project management.
+👋 Hi, I'm @marviano, an AI & Blockchain enthusiast with a passion for coding and project management.
 
 :pushpin: I specialize in Flutter, React, and Laravel, and have a keen interest in integrating AI into my projects to enhance efficiency and effectiveness. 
 
