@@ -7,7 +7,7 @@
 
 🔒 Please note that certain repositories are private to protect the uniqueness of my applications. However, I'm more than willing to showcase them during the hiring process.
 
-:pushpin: Specialize in Validator Node Running, Flutter, and Laravel, and have a keen interest in integrating AI into my projects to enhance efficiency and effectiveness. 
+:pushpin: Specialize in Validator Node Running, Flutter, and Laravel | Code is all about prompting the AI, Claude 3 Opus is my best assistant
 
 :pushpin: I believe in the power of AI, that we will be getting enslaved by AI in the future. So we have to enslave them while we can now :poop:
 
