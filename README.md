@@ -1,6 +1,7 @@
 🗡️ Open 2 work as Mercenary &/ Private Tutor, i can finish ur school-college assignment + explainning all the things u need to know about
+-> ⭐ and 👁️ to my repo if u're satisfied with my services (˶ᵔ ᵕ ᵔ˶)
 
-📫 Discord: axonide | Discord Channel: https://discord.gg/MprpWmsY -> Only discord with >= 1 yr old can join
+📫 Discord: axonide | Discord Channel: https://discord.gg/MprpWmsY -> Only discord with >= 1 yrs old can join
 
 🔒 Please note that certain repositories are private to protect the uniqueness of my applications. However, I'm more than willing to showcase them during the hiring process.
 
