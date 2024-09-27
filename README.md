@@ -10,7 +10,9 @@
 
 📫 Discord: axonide | Discord Channel: https://discord.gg/MprpWmsY -> Only discord with >= 1 yrs old can join
 
-:pushpin: Specialize in Validator Node Running, Web Scraping, Python, Flutter, Node.js, and Laravel | Code is all about prompting the AI as long as u got the logic and basic, Claude 3 is my best assistant
+:pushpin: Specialize in Validator Node Running, Web Scraping, Python, Flutter, Node.js, and Laravel.
+
+:pushpin: Code is all about prompting the AI as long as u got the logic and basic, Claude 3 is my best assistant.
 
 :pushpin: I believe in the power of AI, that we will be getting enslaved by AI in the future. So we have to enslave them while we can now :poop:
 
