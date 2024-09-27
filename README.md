@@ -1,6 +1,6 @@
 🔒🔒🔒 
 
-**Please note that most of repositories are private to protect the uniqueness of my applications. However, I'm more than willing to showcase them by Online meeting.**
+**Please note that most of repositories are private to protect the uniqueness of my applications. However, I'm more than willing to showcase them by online meeting.**
 
 🔒🔒🔒
 
