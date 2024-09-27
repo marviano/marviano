@@ -11,7 +11,9 @@
 📫 Discord: axonide | Discord Channel: https://discord.gg/MprpWmsY -> Only discord with >= 1 yrs old can join
 
 :pushpin: Specialize in Validator Node Running, Web Scraping, Python, Flutter, Node.js, and Laravel.
+
 :pushpin: DYOR is the core skill on learning everything, including programming.
+
 :pushpin: I believe in the power of AI, that we will be getting enslaved by AI in the future. So we have to enslave them while we can now :poop:
 
 <!---
