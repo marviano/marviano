@@ -2,7 +2,7 @@
 
 ⭐ and 👁️ to my repo if u're satisfied
 
-📫 Discord: axonide
+[📫 Discord: axonide]
 
 :pushpin: Node Running, Next.js, Web Scraping, Python, Flutter, Node.js, and Laravel.
 
