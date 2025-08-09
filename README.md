@@ -1,12 +1,11 @@
 🔒 **Please note that most of repositories are private to protect the uniqueness of my applications. However, I'm more than willing to showcase them by virtual meeting.**
-
 ⭐ and 👁️ to my repo if u're satisfied
 
 [📫 Discord: axonide]
 
-:pushpin: Node Running, Next.js, Web Scraping, Python, Flutter, Node.js, and Laravel.
+:pushpin: Node Running, Next.js, Web Scraping, Python, Node.js
 
-:pushpin: DYOR is the core skill on learning everything.
+:pushpin: DYOR is the core skill on learning everything
 
 🪿🪿🪿
 
