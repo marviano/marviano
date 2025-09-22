@@ -1,22 +1,25 @@
-AgentStatus: Pending...  
-While (agents.loading) {  
-    Browse(Reddit);  
-    Collect(AI_Knowledge);  
-}  
-VibeCode: Improving...  
+AgentStatus: Pending...
+while (agents.loading) {
+    Browse(Reddit);
+    Collect(AI_Knowledge);
+}
+VibeCode: Improving...
 
+🔒 Most of my repositories are private to protect the uniqueness of my projects.
+💡 However, I’m always happy to showcase them in a virtual meeting.
 
+⭐ Leave a star or 👁️ watch my repo if you find value in my work.
 
-🔒 **Please note that most of repositories are private to protect the uniqueness of my applications. However, I'm more than willing to showcase them by virtual meeting.**
-⭐ and 👁️ to my repo if u're satisfied
+📫 Discord: axonide
 
-[📫 Discord: axonide]
+📌 Currently running with:
 
-:pushpin: Node Running, Next.js, Web Scraping, Python, Node.js
+Next.js
 
-:pushpin: DYOR is the core skill on learning everything
+Node.js
 
-<!---
-marviano/marviano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Python
+
+Web Scraping
+
+📌 Core philosophy: DYOR (Do Your Own Research)
