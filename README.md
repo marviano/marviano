@@ -1,3 +1,12 @@
+AgentStatus: Pending...  
+While (agents.loading) {  
+    Browse(Reddit);  
+    Collect(AI_Knowledge);  
+}  
+VibeCode: Improving...  
+
+
+
 🔒 **Please note that most of repositories are private to protect the uniqueness of my applications. However, I'm more than willing to showcase them by virtual meeting.**
 ⭐ and 👁️ to my repo if u're satisfied
 
@@ -6,8 +15,6 @@
 :pushpin: Node Running, Next.js, Web Scraping, Python, Node.js
 
 :pushpin: DYOR is the core skill on learning everything
-
-🪿🪿🪿
 
 <!---
 marviano/marviano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
