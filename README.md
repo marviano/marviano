@@ -1,4 +1,4 @@
-Task completion time & how accurately I can deliver the expected request is the value of mine, my GitHub is always open to showcase my skills
+Task completion time & how accurately I can deliver the expected request is the value of mine, my GitHub is always open to showcase my skills and getting audited at anytime without excuse to prep-delay before getting audited
 
 -> Most of my repositories are private to protect the uniqueness of my projects.
 
