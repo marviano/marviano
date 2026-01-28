@@ -6,8 +6,6 @@ Task completion time & how accurately I can deliver the expected request is the 
 
 ⭐ Leave a star or 👁️ watch my repo if you find value in my work.
 
-📫 Discord: axonide
-
 📌 Currently sticking with:
         Next.js
         Node.js
