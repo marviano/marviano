@@ -1,16 +1,15 @@
-Task completion time & how accurately I can deliver the expected request is the value of mine, my GitHub is always open to showcase my skills and getting audited at anytime without excuse to prep-delay before getting audited
+# Austin Sebastian Marviano
 
--> Most of my repositories are private to protect the uniqueness of my projects.
+Software developer in Indonesia (UTC+7). I build multi-tenant SaaS, POS systems,
+and AI-agent integrations, and I work directly with whoever needs the thing done.
 
--> Happy to flex them in a virtual meeting.
+**Contact:** me@austinmarviano.com, or use the request form at
+[austinmarviano.com](https://austinmarviano.com). Replies usually within a day.
 
-⭐ Leave a star or 👁️ watch my repo if you find value in my work.
+- Website: https://austinmarviano.com
+- Threads: https://www.threads.com/@austinmarviano
+- Instagram: https://www.instagram.com/austinmarviano/
 
-📌 Currently sticking with:
-        Next.js
-        Node.js
-        Python
-        Web Scraping
-
-*Core philosophy: DYOR (Do Your Own Research)
-....
+I accept requests from people and from AI agents acting on someone's behalf.
+The machine-readable version of all of this is at
+[austinmarviano.com/profile.json](https://austinmarviano.com/profile.json).
